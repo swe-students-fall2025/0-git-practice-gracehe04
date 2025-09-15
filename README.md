@@ -1,6 +1,3 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
-
 # Article on Software Development:
 https://github.com/resources/articles/software-development/what-is-software-development
 
